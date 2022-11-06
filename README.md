@@ -9,3 +9,11 @@ Co potrafię, co ogarniam?
 > Podstawy C# & python.
 
 Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dziś uczę się samowolnie i w wolnym czasie realizując mniejsze projekty.
+
+
+# Moje projekty
+> BOT + Strona dla serwera TeamSpeak 3 (nie udostępniony prywatny) https://ajoneg.eu/ts/
+
+> Gamemode na MTA w LUA (nie udostępniony prywatny).
+
+> Masa stron i aplikacji desktopowych spoczywających na dysku.
