@@ -18,7 +18,7 @@ Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dz
 
 > Masa stron i aplikacji desktopowych spoczywających na dysku.
 
-# Moje projekty
+# MTA
 
 > Zamieszczono kilka projektów skryptów z serwera testowego. Znaczna część projektów jest zrealizowana rok temu, stąd metody bądź pewne rozwiązania mogą odbiegać od obecnie stosowanych.
 
