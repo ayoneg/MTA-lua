@@ -17,3 +17,5 @@ Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dz
 > Gamemode na MTA w LUA (nie udostępniony prywatny).
 
 > Masa stron i aplikacji desktopowych spoczywających na dysku.
+
+https://i.imgur.com/lwTVBlj.gif
