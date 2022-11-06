@@ -12,7 +12,7 @@ Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dz
 
 
 # Moje projekty
-> BOT + Strona dla serwera TeamSpeak 3 (nie udostępniony prywatny) https://ajoneg.eu/ts/
+> BOT + Strona dla serwera TeamSpeak 3 (aktywny, zrealizowany) https://ajoneg.eu/ts/
 
 > Gamemode na MTA w LUA (nie udostępniony prywatny).
 
