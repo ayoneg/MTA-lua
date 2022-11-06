@@ -18,4 +18,4 @@ Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dz
 
 > Masa stron i aplikacji desktopowych spoczywających na dysku.
 
-![Model sultan SAPD by nico dla ajoneg.eu](http://url/to/img.png](https://i.imgur.com/lwTVBlj.gif)
+![Model sultan SAPD by nico dla ajoneg.eu](https://i.imgur.com/lwTVBlj.gif)
