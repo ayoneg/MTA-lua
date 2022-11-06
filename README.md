@@ -18,6 +18,6 @@ Wszystko wyżej wymienione, nauczyłem się sam, z pasji i zainteresowania do dz
 
 > Masa stron i aplikacji desktopowych spoczywających na dysku.
 
-> Zamieszczono kilka projektów skryptów z serwera testowego.
+> Zamieszczono kilka projektów skryptów z serwera testowego. Znaczna część projektów jest zrealizowana rok temu, stąd metody bądź pewne rozwiązania mogą odbiegać od obecnie stosowanych.
 
 ![Przykład](https://i.imgur.com/DdZI6hT.png)
